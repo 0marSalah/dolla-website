@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/dolla-website/static/js/main.5c484dd1.js",
+    "main.js": "/dolla-website/static/js/main.eb389a58.js",
     "static/media/videoOne.mp4": "/dolla-website/static/media/videoOne.7d1ea6a94986d5c2a068.mp4",
     "static/media/svg-2.svg": "/dolla-website/static/media/svg-2.d15ce0fcf59c64f7327aaa795f14b6ab.svg",
     "static/media/srv-2.svg": "/dolla-website/static/media/srv-2.3eb5306edab76b396acace52524b6bb4.svg",
@@ -8,9 +8,9 @@
     "static/media/svg-1.svg": "/dolla-website/static/media/svg-1.d342a6f138f64f3af4efbcc0413d21e1.svg",
     "static/media/svg-4.svg": "/dolla-website/static/media/svg-4.0502ef6a7d67e9444bded26d0a4067cf.svg",
     "index.html": "/dolla-website/index.html",
-    "main.5c484dd1.js.map": "/dolla-website/static/js/main.5c484dd1.js.map"
+    "main.eb389a58.js.map": "/dolla-website/static/js/main.eb389a58.js.map"
   },
   "entrypoints": [
-    "static/js/main.5c484dd1.js"
+    "static/js/main.eb389a58.js"
   ]
 }
